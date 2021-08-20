@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Karakter : MonoBehaviour
+public class Karakter
 {
     private string name;
     private int health;
